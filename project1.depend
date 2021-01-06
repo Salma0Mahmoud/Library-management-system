@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1609678076 source:f:\trainingg\project1\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linked_list.h"
+	"takeaction.h"
+
+1609678076 source:f:\trainingg\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linked_list.h"
+	"takeaction.h"
+
+1609678076 f:\trainingg\project1\linked_list.h
+
+1609888286 f:\trainingg\project1\takeaction.h
+
+1609890458 source:f:\trainingg\project1\takeaction.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"takeaction.h"
+	"linked_list.h"
+
